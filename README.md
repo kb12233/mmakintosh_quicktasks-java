@@ -1,3 +1,14 @@
+# QuickTasks
+
+## Group Name: 
+- MMAKintosh
+
+## Members:
+- Aldemita, Marieve Gillian
+- Lazaraga, Ashley Moriah
+- Quiton, Mikka Ella
+- Ocfemia, Karl Brandon
+
 ## Brief Description:
 
 QuickTasks is a simple and intuitive to-do app for managing tasks efficiently. With a minimalist interface, users can easily create, organize, and prioritize tasks. Add due dates, mark tasks as complete, and categorize tasks into lists or projects. Stay on track and accomplish your goals with QuickTasks.
